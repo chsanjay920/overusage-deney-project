@@ -1,0 +1,15 @@
+step-1 : face recognitition
+         (start of the day)
+         delete all previously register faces.
+         register a new user face daily with some random name/id and monitor his face
+         if new user is found then register him and start's monitering him.
+         
+                registration:
+                  if new user is visible then collect his photos and store it in folder.
+                  train the model
+                
+                
+         
+         
+step-2 : register time and calculate no of seconds
+step-3 : if a particular user using the system for too long then shutdown the system
