@@ -7,9 +7,12 @@ step-1 : face recognitition
                 registration:
                   if new user is visible then collect his photos and store it in folder.
                   train the model
+         learn machine learning first rey 
                 
                 
          
          
 step-2 : register time and calculate no of seconds
+
+
 step-3 : if a particular user using the system for too long then shutdown the system
