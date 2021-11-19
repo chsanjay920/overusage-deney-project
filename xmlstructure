@@ -1,0 +1,20 @@
+<data>
+	<user>
+		<username></username>
+		<logintime></logintime>
+        <logouttime></logouttime>
+        <spentTime></spentTime>
+	</user>
+	<user>
+		<username>abcd</username>
+		<logintime></logintime>
+        <logouttime></logouttime>
+        <spentTime></spentTime>
+	</user>
+	<user>
+		<username>pqrs</username>
+		<logintime></logintime>
+        <logouttime></logouttime>
+        <spentTime></spentTime>
+	</user>
+</data>

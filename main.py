@@ -9,7 +9,7 @@ from cap import *
 c = cap()
 def start():
     c.GetUserImage()
-    win.after(10000,start)
+    # win.after(10000,start)
 
 win = Tk()
 win.title("monitoring..")
